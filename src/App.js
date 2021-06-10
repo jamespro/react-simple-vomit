@@ -6,7 +6,7 @@ import Aside from './Aside'; // import Aside component
 import Footer from './Footer'; // import Footer component
 
 // 
-class App extends Component {
+class App extends Component { // create the App, extending Component class
 
   render() {
       return (
